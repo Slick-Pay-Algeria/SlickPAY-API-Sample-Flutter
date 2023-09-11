@@ -1,3 +1,7 @@
+slickpayapi
+2.12
+file:///Users/mac/.pub-cache/git/SlickPAY-API-Flutter-58ae02903fc84a2e759a9885f3b50dad831d4321/
+file:///Users/mac/.pub-cache/git/SlickPAY-API-Flutter-58ae02903fc84a2e759a9885f3b50dad831d4321/lib/
 async
 2.18
 file:///Users/mac/.pub-cache/hosted/pub.dev/async-2.11.0/
@@ -10,6 +14,10 @@ characters
 2.12
 file:///Users/mac/.pub-cache/hosted/pub.dev/characters-1.3.0/
 file:///Users/mac/.pub-cache/hosted/pub.dev/characters-1.3.0/lib/
+clipboard
+2.12
+file:///Users/mac/.pub-cache/hosted/pub.dev/clipboard-0.1.3/
+file:///Users/mac/.pub-cache/hosted/pub.dev/clipboard-0.1.3/lib/
 clock
 2.12
 file:///Users/mac/.pub-cache/hosted/pub.dev/clock-1.1.1/
@@ -30,6 +38,10 @@ flutter_lints
 2.18
 file:///Users/mac/.pub-cache/hosted/pub.dev/flutter_lints-2.0.2/
 file:///Users/mac/.pub-cache/hosted/pub.dev/flutter_lints-2.0.2/lib/
+fluttertoast
+2.12
+file:///Users/mac/.pub-cache/hosted/pub.dev/fluttertoast-8.2.2/
+file:///Users/mac/.pub-cache/hosted/pub.dev/fluttertoast-8.2.2/lib/
 http
 3.0
 file:///Users/mac/.pub-cache/hosted/pub.dev/http-1.1.0/
@@ -62,10 +74,6 @@ path
 2.12
 file:///Users/mac/.pub-cache/hosted/pub.dev/path-1.8.3/
 file:///Users/mac/.pub-cache/hosted/pub.dev/path-1.8.3/lib/
-slickpayapi
-2.12
-file:///Users/mac/.pub-cache/hosted/pub.dev/slickpayapi-0.0.3/
-file:///Users/mac/.pub-cache/hosted/pub.dev/slickpayapi-0.0.3/lib/
 source_span
 2.18
 file:///Users/mac/.pub-cache/hosted/pub.dev/source_span-1.10.0/
@@ -114,4 +122,8 @@ flutter_test
 3.0
 file:///Users/mac/flutterDev/flutter/packages/flutter_test/
 file:///Users/mac/flutterDev/flutter/packages/flutter_test/lib/
+flutter_web_plugins
+3.0
+file:///Users/mac/flutterDev/flutter/packages/flutter_web_plugins/
+file:///Users/mac/flutterDev/flutter/packages/flutter_web_plugins/lib/
 2

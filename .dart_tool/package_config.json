@@ -20,6 +20,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "clipboard",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/clipboard-0.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "clock",
       "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/clock-1.1.1",
       "packageUri": "lib/",
@@ -60,6 +66,18 @@
       "rootUri": "file:///Users/mac/flutterDev/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/mac/flutterDev/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "fluttertoast",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/fluttertoast-8.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "http",
@@ -117,7 +135,7 @@
     },
     {
       "name": "slickpayapi",
-      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/slickpayapi-0.0.3",
+      "rootUri": "file:///Users/mac/.pub-cache/git/SlickPAY-API-Flutter-58ae02903fc84a2e759a9885f3b50dad831d4321/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -176,7 +194,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-09T19:13:34.178902Z",
+  "generated": "2023-09-11T07:49:27.353265Z",
   "generator": "pub",
   "generatorVersion": "3.1.0-63.1.beta"
 }

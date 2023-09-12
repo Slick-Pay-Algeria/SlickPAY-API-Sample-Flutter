@@ -170,10 +170,10 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "58ae02903fc84a2e759a9885f3b50dad831d4321"
+      resolved-ref: a413f9cef297bb25294f7935956c07fe6fdd65a4
       url: "git@github.com:Slick-Pay-Algeria/SlickPAY-API-Flutter.git"
     source: git
-    version: "0.0.3"
+    version: "0.0.4"
   source_span:
     dependency: transitive
     description:

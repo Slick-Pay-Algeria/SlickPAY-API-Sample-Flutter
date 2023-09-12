@@ -1,0 +1,12 @@
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-1.0.0-beta04-0 /Users/mac/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-annotation-experimental-1.1.0-1 /Users/mac/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-2 /Users/mac/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-java-1.0.0-beta04-3 /Users/mac/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+io.github.ponnamkarthik.toast.fluttertoast-main-4 /Users/mac/.pub-cache/hosted/pub.dev/fluttertoast-8.2.2/android/src/main/res
+io.github.ponnamkarthik.toast.fluttertoast-release-5 /Users/mac/.pub-cache/hosted/pub.dev/fluttertoast-8.2.2/android/src/release/res
+io.github.ponnamkarthik.toast.fluttertoast-pngs-6 /Users/mac/dev/SlickPAY-API-Sample-Flutter/build/fluttertoast/generated/res/pngs/release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-7 /Users/mac/dev/SlickPAY-API-Sample-Flutter/build/fluttertoast/generated/res/resValues/release
+io.github.ponnamkarthik.toast.fluttertoast-rs-8 /Users/mac/dev/SlickPAY-API-Sample-Flutter/build/fluttertoast/generated/res/rs/release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-9 /Users/mac/dev/SlickPAY-API-Sample-Flutter/build/fluttertoast/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-10 /Users/mac/dev/SlickPAY-API-Sample-Flutter/build/fluttertoast/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-merged_res-11 /Users/mac/dev/SlickPAY-API-Sample-Flutter/build/fluttertoast/intermediates/merged_res/release

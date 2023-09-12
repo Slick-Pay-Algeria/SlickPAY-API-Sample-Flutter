@@ -56,8 +56,8 @@ class _TransferListScreenState extends State<TransferListScreen> {
                 return Card(
                   child: InkWell(
                     onTap: () {
-                      TransferRepository.instance
-                          .getTransferById(id: transfer.id!);
+                     /*  TransferRepository.instance
+                          .getTransferById(id: transfer.id!); */
                     },
                     child: ListTile(
                       leading: const CircleAvatar(),

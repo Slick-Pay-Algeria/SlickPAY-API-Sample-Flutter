@@ -135,7 +135,7 @@
     },
     {
       "name": "slickpayapi",
-      "rootUri": "file:///Users/mac/.pub-cache/git/SlickPAY-API-Flutter-58ae02903fc84a2e759a9885f3b50dad831d4321/",
+      "rootUri": "file:///Users/mac/.pub-cache/git/SlickPAY-API-Flutter-a413f9cef297bb25294f7935956c07fe6fdd65a4/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -194,7 +194,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-11T07:49:27.353265Z",
+  "generated": "2023-09-12T23:27:23.624299Z",
   "generator": "pub",
   "generatorVersion": "3.1.0-63.1.beta"
 }
